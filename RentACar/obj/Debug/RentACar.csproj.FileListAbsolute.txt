@@ -1,0 +1,129 @@
+D:\C# projeler\RentACar\RentACar\bin\Debug\RentACar.exe.config
+D:\C# projeler\RentACar\RentACar\bin\Debug\RentACar.exe
+D:\C# projeler\RentACar\RentACar\bin\Debug\RentACar.pdb
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.Giris.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.Cache
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.exe
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.pdb
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.AdminAnaSayfa.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.ArabaIslemleri.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.AracEkle.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.AracGuncelle.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.MusteriIslemleri.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.MusteriGuncelle.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.CalisanIs.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.CalisanGuncelle.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.KiralamaEmri.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.AracTeslim.resources
+D:\C# projeler\RentACar\RentACar\obj\Debug\RentACar.OdemeYap.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.AdminAnaSayfa.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.ArabaIslemleri.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracEkle.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracGuncelle.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracTeslim.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanGuncelle.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanIs.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.Giris.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.KiralamaEmri.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriGuncelle.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriIslemleri.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.OdemeYap.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\ADEM\Downloads\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.Cache
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AdminAnaSayfa.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.ArabaIslemleri.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracEkle.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracGuncelle.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracTeslim.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanGuncelle.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanIs.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Giris.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.KiralamaEmri.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriGuncelle.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriIslemleri.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.OdemeYap.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Rezervecs.resources
+C:\Users\ADEM\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.Cache
+D:\C# projeler\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
+D:\C# projeler\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+D:\C# projeler\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.csprojResolveAssemblyReference.cache
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.AdminAnaSayfa.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.ArabaIslemleri.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracEkle.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracGuncelle.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracTeslim.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanGuncelle.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanIs.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.Giris.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.KiralamaEmri.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriGuncelle.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriIslemleri.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.OdemeYap.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.Rezervecs.resources
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.Cache
+D:\C# projeler\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracSorguları.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csprojAssemblyReference.cache
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AdminAnaSayfa.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.ArabaIslemleri.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracEkle.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracGuncelle.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracSorguları.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracTeslim.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanGuncelle.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanIs.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Giris.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.KiralamaEmri.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriGuncelle.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriIslemleri.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.OdemeYap.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.Rezervecs.resources
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\ubeyd\Desktop\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe.config
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\bin\Debug\RentACar.exe
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\bin\Debug\RentACar.pdb
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.csprojAssemblyReference.cache
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.AdminAnaSayfa.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.ArabaIslemleri.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracEkle.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracGuncelle.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracSorguları.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.AracTeslim.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanGuncelle.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.CalisanIs.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.Giris.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.KiralamaEmri.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriGuncelle.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.MusteriIslemleri.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.OdemeYap.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.Properties.Resources.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.Rezervecs.resources
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.GenerateResource.cache
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.csproj.CoreCompileInputs.cache
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.exe
+C:\Users\ubeyd\Desktop\ARAÇ KİRLAMA PROGRAMI\RentACar\RentACar\RentACar\obj\Debug\RentACar.pdb
